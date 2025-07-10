@@ -31,20 +31,23 @@ The clock automatically updates every second, creating a mesmerizing effect as t
 Simply open the project in a web browser to view the animated clock. The time automatically syncs with your system clock and updates in real-time.
 
 ## 📱 Screenshots
-![PopTime Screenshot 1](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101428.png?raw=true)
-![PopTime Screenshot 2](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101336.png?raw=true)
+| Light Mode | Dark Mode |
+|------------|-----------|
+| ![Screenshot 1](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101336.png?raw=true) | ![Screenshot 2](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101428.png?raw=true) |
+
 
 ## 🙌 Creator
 
-Built with 💜 by [Kalyan Manna](https://github.com/Kalyan-github-4)
+Built with 💜 by [Kalyan Manna]  
 
-- 🔗 [LinkedIn](www.linkedin.com/in/kalyan-manna-840861352)  
-- 📧 [Email](kalyanmanna439@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Kalyan--github--4-blue?style=flat&logo=github)](https://github.com/Kalyan-github-4)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-manna-840861352)  
+📧 kalyanmanna439@gmail.com
 
 
 ## 🔧 Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/poptime.git
+git clone https://github.com/Kalyan-github-4/PopTime.git
 
 
