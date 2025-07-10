@@ -1,5 +1,5 @@
 # PopTime ⏰
-A sleek, animated digital clock with a unique scrolling digit design. PopTime displays the current time using six vertical columns, each representing a digit that smoothly scrolls upward with engaging bubble animations.
+A sleek and animated digital clock featuring a unique scrolling digit display. PopTime displays the current time using six vertical columns, each smoothly scrolling upward, with the active digit highlighted by an engaging popping bubble animation.
 
 ## ✨ Features
 - **Animated Digit Scrolling**: Each digit column smoothly scrolls upward as time changes
@@ -26,13 +26,25 @@ The clock automatically updates every second, creating a mesmerizing effect as t
 - JavaScript (Time Logic & DOM Manipulation)
 - Modern CSS Grid/Flexbox for layout
 
-## 📱 Screenshots
-Include screenshots of your PopTime clock in action
 
 ## 🎯 Usage
 Simply open the project in a web browser to view the animated clock. The time automatically syncs with your system clock and updates in real-time.
+
+## 📱 Screenshots
+![PopTime Screenshot 1](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101428.png?raw=true)
+![PopTime Screenshot 2](https://github.com/Kalyan-github-4/PopTime/blob/main/Screenshot%202025-07-10%20101336.png?raw=true)
+
+## 🙌 Creator
+
+Built with 💜 by [Kalyan Manna](https://github.com/Kalyan-github-4)
+
+- 🔗 [LinkedIn](www.linkedin.com/in/kalyan-manna-840861352)  
+- 📧 [Email](kalyanmanna439@gmail.com)
+
 
 ## 🔧 Installation
 1. Clone this repository:
 ```bash
 git clone https://github.com/yourusername/poptime.git
+
+
