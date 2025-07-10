@@ -38,7 +38,7 @@ Simply open the project in a web browser to view the animated clock. The time au
 
 ## 🙌 Creator
 
-Built with 💜 by [Kalyan Manna]  
+Built with 💜 by **Kalyan Manna**  
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kalyan--github--4-blue?style=flat&logo=github)](https://github.com/Kalyan-github-4)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalyan_Manna-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalyan-manna-840861352)  
